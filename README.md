@@ -21,4 +21,4 @@ Este proyecto fue creado con Excel
 
 ## 📬 Contacto
 
-Si tienes preguntas o sugerencias comunicarte directamente a danapdlh19@gmail.com.
+Si tienes preguntas o sugerencias comunicarte directamente a danapdlh19@gmail.com o lavallejuanricardo59@gmail.com
