@@ -4,16 +4,12 @@ Este repositorio contiene un dashboard interactivo desarrollado para visualizar 
 
 ## 📊 Dashboard
 
-Puedes acceder al dashboard desde el siguiente enlace:
-
-🔗 (https://docs.google.com/spreadsheets/d/1RglhsdwUk0YOaNC_U3qjoCt9Cpnufgim/edit?usp=drive_link&ouid=116783427106108164976&rtpof=true&sd=true)
-
-> **Nota:** Dentro del dashboard encontrarás un vínculo directo al informe completo del análisis. Este informe incluye la metodología utilizada, hallazgos clave y conclusiones.
+**Nota:** Dentro del dashboard encontrarás un vínculo directo al informe completo del análisis. Este informe incluye la metodología utilizada, hallazgos clave y conclusiones.
 
 ## 📁 Contenido del Repositorio
 
 - `dashboard/`: Archivos del dashboard.
-- `README.md`: Descripción general del proyecto y acceso al dashboard.
+- `README.md`: Descripción general del proyecto.
 
 ## 📌 Requisitos
 
